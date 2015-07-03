@@ -1,0 +1,23 @@
+/*css of h1 for the title*/
+h1{
+	text-align: center;
+}
+/*class fot the content*/
+.content{
+	color: green;
+	text-align: center;
+}
+/*class for the list*/
+.tags{
+	text-align: left;
+	color: skyblue;
+}
+/*class for the tags a of the image*/
+a{
+	text-decoration: none;
+	color: green;
+}
+/*span for the h2*/
+span{
+	color: red;
+}
